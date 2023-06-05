@@ -1,0 +1,57 @@
+Line 1-<!DOCTYPE html>
+
+Description-This is a document-type declaration that declares the document as a HTML document.
+
+Line 2-<html>
+        ...
+      </html> -They are called opening and closing tags. <html> is the opening tag and </html> is the closing tag.
+      
+      <head>
+       ...
+      </head>-They are called opening and closing tags. <head> is the opening tag and </head> is the closing tag.
+      
+      <body>
+       ...
+      </body>-The are called opening and closing tags. <body> is the opening tag and </body> is the closing tag.
+      
+      Opening and closing tags from a unit called an element. 
+      
+      Example of Opening and Closing tags:
+      
+       <html>
+       <head>
+        ...
+       </head>
+      
+       <body>
+        ...
+       </body>
+       </html>
+       
+       Line 3- Inside the <head> element is the following:
+       
+       <head>
+        <title>Page Title</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,...>
+        </head>
+        
+        Line 4
+        <title>Page Title</title>-The <title> element sets the title of the page to be displayed in the browser's title bar.
+       
+       Line 5
+       <meta charset="utf-8">-Each character that we use is represented by a unique code that needs to be interpreted by the browser and translated into readable characters using a process called encoding. 
+       <meta charset="utf-8">- Universal Coded Character Set Transformation Format-8 bit.
+       
+       Line 6
+       <meta name="viewport" content="width=device-width, intitial-scale=1, shrink-to-fit=no">-This is metadata to make any webpage adaptable to various screen sizes.
+       
+       initial scale=1-Tells the browser not to zoom when it opens the page.
+       
+       shrink-to-fit=no=Tells the browser not to automatically shrink the page when it is too wide for the screen.
+       
+       Line 8
+       
+       <body>
+        ...
+       </body>-Anything put inside the body element will be displayed on the web page.
